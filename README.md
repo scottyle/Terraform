@@ -1,5 +1,9 @@
 # Terraform
 
+This repo will contain the code repository used to complete the parts listed below.
+
+For this repo we will spin up a cloud9 server on AWS. 
+
 Objective:
 
     Use github as your code repository
