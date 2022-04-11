@@ -2,7 +2,9 @@
 
 This repo will contain the code repository used to complete the parts listed below.
 
-For this repo we will spin up a cloud9 server on AWS. 
+For this repo we will configure terraform locally on our machine. Ensure terraform is installed locally. 
+
+Referring to https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html on how to setup the credentials. 
 
 Objective:
 
