@@ -15,11 +15,12 @@ provider "aws" {
   region = "us-east-1"
 }
 
-#Local module 
+#Local module that is used to spin up a webserver 
 module "scotts-webserver"{
     source = "./modules"
 }
 
+# Remote module that is called to create the vpc 
 module "my-vpc"{
     source = "terraform-aws-modules/vpc/aws"
     name = "my-vpc"
