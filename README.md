@@ -16,19 +16,6 @@ Objective:
     make sure to have an .gitignore file
     When complete, upload your repo url to slate.
 
-
-Part – 2
-
-    Write a Terraform script which create a (or amazon linux) ec2-instance and copy a ansible playbook, install ansible and run it.
-
-    Step 1 – Create ec2-instance with key and group
-
-    Step 2 – Copy playbook using file terraform provisioner
-
-    Step 3 – Install Ansible using remote terraform provisioner
-
-    Step 4 – Run Ansible playbook command using remote terraform provisioner
-
 Part – 3
 
     Write 2 Modules in Terraform.
