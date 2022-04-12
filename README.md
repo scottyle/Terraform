@@ -16,11 +16,4 @@ Objective:
     make sure to have an .gitignore file
     When complete, upload your repo url to slate.
 
-Part – 3
-
-    Write 2 Modules in Terraform.
-
-    Local Module – in Ubuntu(or amazon linux) – Setup a webserver
-
-    Remote module – Setup VPC (this should be hosted in your github account
 
