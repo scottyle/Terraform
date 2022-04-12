@@ -6,6 +6,8 @@ For this repo we will configure terraform locally on our machine. Ensure terrafo
 
 Referring to https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html on how to setup the credentials. 
 
+A .gitignore file will be used to ignore tfstate files and crash log files. 
+
 Objective:
 
     Use github as your code repository
@@ -14,19 +16,6 @@ Objective:
     make sure to have an .gitignore file
     When complete, upload your repo url to slate.
 
-Part - 1
-
-    Write a terraform script using aws ec2 instance and github and apply following kind of variables
-
-    Types of Terraform variable – Number
-
-    Types of Terraform variable – String
-
-    Types of Terraform variable – List
-
-    Types of Terraform variable – Map
-
-    Types of Terraform variable – Boolean
 
 Part – 2
 
